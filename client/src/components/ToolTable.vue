@@ -1,12 +1,12 @@
 <template>
   <div class="container">
-    <button @click="reset">Reset</button>
     <div class="header">
       <h5 class="title">{{msg}}</h5>
       <label class="flow-lbl">Flow Needed: </label>
       <span class="flow">{{flowSum}}</span>
       <label class="pressure-lbl">Pressure Needed: </label>
-      <span class="pressure">{{pressVal}}</span>
+      <span class="pressure">{{pressVal}}</span><br>
+      <button @click="reset" style="margin-top:15px">Reset</button>
     </div>
     <button class="sticky-btn" @click="scrollTop">Scroll to Top</button>
     <table style="width:70%">
@@ -102,16 +102,18 @@ table{
 th, td{
   padding: 10px;
 }
-.sticky-btn{
-  position: sticky;
-  top: 50%;
-  left: 85%;
+Button{
   color: blue;
   background-color: white;
   border-radius: 12px;
   border: 1px solid blue;
 }
-.sticky-btn:hover{
+.sticky-btn{
+  position: sticky;
+  top: 50%;
+  left: 85%;
+}
+Button:hover{
   background-color: blue;
   color: white;
 }
