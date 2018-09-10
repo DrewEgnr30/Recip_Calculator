@@ -1,0 +1,217 @@
+[
+    {
+      "Name": "Drill, 1/16 in to 3/8 in",
+      "Consumption_Avg": 6,
+      "Pressure": 70
+    },
+    {
+      "Name": "Drill, 3/8 in to 5/8 in",
+      "Consumption_Avg": 9,
+      "Pressure": 70
+    },
+    {
+      "Name": "Screwdriver #2 to #6 screw",
+      "Consumption_Avg": 3,
+      "Pressure": 70
+    },
+    {
+      "Name": "Screwdriver #5 to 5/16 in screw",
+      "Consumption_Avg": 6,
+      "Pressure": 70
+    },
+    {
+      "Name": "Trapper, to 3/8 in",
+      "Consumption_Avg": 6,
+      "Pressure": 70
+    },
+    {
+      "Name": "Nutsetters, to 3/8 in",
+      "Consumption_Avg": 6,
+      "Pressure": 70
+    },
+    {
+      "Name": "Nutsetters, to 9/16 in",
+      "Consumption_Avg": 13,
+      "Pressure": 70
+    },
+    {
+      "Name": "Nutsetters, to 3/4 in",
+      "Consumption_Avg": 15,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench, 1/4 in",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench, 3/8 in",
+      "Consumption_Avg": 5,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench, 1/2 in",
+      "Consumption_Avg": 8,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench, 5/8 in",
+      "Consumption_Avg": 8,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench, 3/4 in",
+      "Consumption_Avg": 9,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench, 1 in",
+      "Consumption_Avg": 11,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench, 1 1/4 in",
+      "Consumption_Avg": 14,
+      "Pressure": 70
+    },
+    {
+      "Name": "Die Grinder, Small",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Die Grinder, Medium",
+      "Consumption_Avg": 6,
+      "Pressure": 70
+    },
+    {
+      "Name": "Horizontal Grinder, 2 in",
+      "Consumption_Avg": 8,
+      "Pressure": 70
+    },
+    {
+      "Name": "Horizontal Grinder, 4 in",
+      "Consumption_Avg": 15,
+      "Pressure": 70
+    },
+    {
+      "Name": "Horizontal Grinder, 6 in",
+      "Consumption_Avg": 18,
+      "Pressure": 70
+    },
+    {
+      "Name": "Horizontal Grinder, 8 in",
+      "Consumption_Avg": 20,
+      "Pressure": 70
+    },
+    {
+      "Name": "Vertical Grinders and Sander, 5 in Pad",
+      "Consumption_Avg": 9,
+      "Pressure": 70
+    },
+    {
+      "Name": "Vertical Grinders and Sander, 7in Pad",
+      "Consumption_Avg": 18,
+      "Pressure": 70
+    },
+    {
+      "Name": "Vertical Grinders and Sander, 9 in Pad",
+      "Consumption_Avg": 20,
+      "Pressure": 70
+    },
+    {
+      "Name": "Burring Tool, Small",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Burring Tool, Large",
+      "Consumption_Avg": 6,
+      "Pressure": 70
+    },
+    {
+      "Name": "Rammers, Small",
+      "Consumption_Avg": 3,
+      "Pressure": 70
+    },
+    {
+      "Name": "Rammers, Medium",
+      "Consumption_Avg": 9,
+      "Pressure": 70
+    },
+    {
+      "Name": "Rammers, Large",
+      "Consumption_Avg": 10,
+      "Pressure": 70
+    },
+    {
+      "Name": "Backfill Tamper",
+      "Consumption_Avg": 6,
+      "Pressure": 70
+    },
+    {
+      "Name": "Compression Riveter",
+      "Consumption_Avg": 1.2,
+      "Pressure": 70
+    },
+    {
+      "Name": "Air Motor, 1 Hp",
+      "Consumption_Avg": 9,
+      "Pressure": 70
+    },
+    {
+      "Name": "Air Motor, 2 Hp",
+      "Consumption_Avg": 18,
+      "Pressure": 70
+    },
+    {
+      "Name": "Air Motor, 3 Hp",
+      "Consumption_Avg": 24,
+      "Pressure": 70
+    },
+    {
+      "Name": "Paint Spray Gun",
+      "Consumption_Avg": 5,
+      "Pressure": 70
+    },
+    {
+      "Name": "Scaling Hammer",
+      "Consumption_Avg": 3,
+      "Pressure": 70
+    },
+    {
+      "Name": "Chipping Hammer",
+      "Consumption_Avg": 8,
+      "Pressure": 70
+    },
+    {
+      "Name": "Riveting Hammer (Heavy)",
+      "Consumption_Avg": 8,
+      "Pressure": 70
+    },
+    {
+      "Name": "Riveting Hammer (Light)",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Circular Saw, 8 in",
+      "Consumption_Avg": 11,
+      "Pressure": 70
+    },
+    {
+      "Name": "Circular Saw, 12 in",
+      "Consumption_Avg": 16,
+      "Pressure": 70
+    },
+    {
+      "Name": "Chain Saw, Lightweight",
+      "Consumption_Avg": 7,
+      "Pressure": 70
+    },
+    {
+      "Name": "Chain Saw, Heavy Duty",
+      "Consumption_Avg": 22,
+      "Pressure": 70
+    }
+  ]

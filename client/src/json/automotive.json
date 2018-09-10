@@ -1,0 +1,212 @@
+[
+    {
+      "Name": "Air Filter Cleaner",
+      "Consumption_Avg": 3,
+      "Pressure": 70
+    },
+    {
+      "Name": "Body Polisher",
+      "Consumption_Avg": 20,
+      "Pressure": 70
+    },
+    {
+      "Name": "Body Sander (Orbital)",
+      "Consumption_Avg": 10,
+      "Pressure": 70
+    },
+    {
+      "Name": "Brake Tester",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Carbon Remover",
+      "Consumption_Avg": 3,
+      "Pressure": 70
+    },
+    {
+      "Name": "Dusting Gun (Blow Gun)",
+      "Consumption_Avg": 2.5,
+      "Pressure": 90
+    },
+    {
+      "Name": "Panel Cutter",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Drill, 1/16 in to 3/8 in",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench 3/8 in",
+      "Consumption_Avg": 3,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench 1/2 in",
+      "Consumption_Avg": 4,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench 5/8 in",
+      "Consumption_Avg": 5,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench 3/4 in",
+      "Consumption_Avg": 8,
+      "Pressure": 70
+    },
+    {
+      "Name": "Impact Wrench 1 in",
+      "Consumption_Avg": 12,
+      "Pressure": 70
+    },
+    {
+      "Name": "Die Grinder",
+      "Consumption_Avg": 5,
+      "Pressure": 70
+    },
+    {
+      "Name": "Vertical Disc Sander",
+      "Consumption_Avg": 20,
+      "Pressure": 90
+    },
+    {
+      "Name": "Filing and Sawing Machine, Small",
+      "Consumption_Avg": 3,
+      "Pressure": 90
+    },
+    {
+      "Name": "Filing and Sawing Machine, Large",
+      "Consumption_Avg": 5,
+      "Pressure": 90
+    },
+    {
+      "Name": "Burring Tool",
+      "Consumption_Avg": 5,
+      "Pressure": 90
+    },
+    {
+      "Name": "Rim Stripper",
+      "Consumption_Avg": 6,
+      "Pressure": 125
+    },
+    {
+      "Name": "Tire Changer",
+      "Consumption_Avg": 1,
+      "Pressure": 125
+    },
+    {
+      "Name": "Tire Inflation Line",
+      "Consumption_Avg": 2,
+      "Pressure": 125
+    },
+    {
+      "Name": "Tire Spreader",
+      "Consumption_Avg": 1,
+      "Pressure": 125
+    },
+    {
+      "Name": "Vacuum Cleaner",
+      "Consumption_Avg": 7,
+      "Pressure": 125
+    },
+    {
+      "Name": "Air Hammer",
+      "Consumption_Avg": 4,
+      "Pressure": 90
+    },
+    {
+      "Name": "Tire Hammer",
+      "Consumption_Avg": 12,
+      "Pressure": 90
+    },
+    {
+      "Name": "Bead Breaker",
+      "Consumption_Avg": 12,
+      "Pressure": 125
+    },
+    {
+      "Name": "Spring Oiler",
+      "Consumption_Avg": 4,
+      "Pressure": 90
+    },
+    {
+      "Name": "Engine Cleaner",
+      "Consumption_Avg": 5,
+      "Pressure": 90
+    },
+    {
+      "Name": "Paint Spray Gun (production)",
+      "Consumption_Avg": 8,
+      "Pressure": 90
+    },
+    {
+      "Name": "Paint Spray Gun (touch up)",
+      "Consumption_Avg": 4,
+      "Pressure": 90
+    },
+    {
+      "Name": "Paint Spray Gun (undercoat)",
+      "Consumption_Avg": 19,
+      "Pressure": 90
+    },
+    {
+      "Name": "Grease Gun",
+      "Consumption_Avg": 3,
+      "Pressure": 120
+    },
+    {
+      "Name": "Car Lift (air powered hydraulic)",
+      "Consumption_Avg": 6,
+      "Pressure": 145
+    },
+    {
+      "Name": "Floor Jack (air powered hydraulic)",
+      "Consumption_Avg": 6,
+      "Pressure": 125
+    },
+    {
+      "Name": "Pneumatic Garage Door",
+      "Consumption_Avg": 3,
+      "Pressure": 120
+    },
+    {
+      "Name": "Radiator Tester",
+      "Consumption_Avg": 1,
+      "Pressure": 90
+    },
+    {
+      "Name": "Spark Plug Cleaner",
+      "Consumption_Avg": 5,
+      "Pressure": 90
+    },
+    {
+      "Name": "Spark Plug Tester",
+      "Consumption_Avg": 0.5,
+      "Pressure": 90
+    },
+    {
+      "Name": "Transmission and Differential Flusher",
+      "Consumption_Avg": 3,
+      "Pressure": 70
+    },
+    {
+      "Name": "Fender Hammer",
+      "Consumption_Avg": 9,
+      "Pressure": 70
+    },
+    {
+      "Name": "Car Washer",
+      "Consumption_Avg": 9,
+      "Pressure": 70
+    },
+    {
+      "Name": "6 in Medium Duty Sander",
+      "Consumption_Avg": 40,
+      "Pressure": 70
+    }
+  ]

@@ -1,13 +1,18 @@
 <template>
   <div id="app">
-    <img src="./assets/Quincy_logo.jpg">
+    <img v-if="showImg" src="./assets/Quincy_logo.jpg">
     <router-view/>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  data () {
+    return {
+      showImg: false
+    }
+  }
 }
 </script>
 
@@ -18,7 +23,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 5%;
+  font-size: 10px;
 }
 img{
   width: 40%;
