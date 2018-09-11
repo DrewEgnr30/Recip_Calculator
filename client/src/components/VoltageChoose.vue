@@ -34,12 +34,39 @@ export default {
   },
   methods: {
     calculate: function () {
+      var model = ''
+      var selectModel = ''
+      var flow = 0
+      var pressure = 0
+      var fam = ''
+      var prevFam = ''
+      var models = []
       if (this.selected !== null) {
         Object.entries(this.Json_compressors).forEach(([key, value]) => {
           if (value.Voltages.includes(this.selected)) {
-            console.log(value.Model)
+            model = value.Model
+            flow = value.Flow
+            pressure = value.Pressure
+            fam = value.Product_Family
+            if (flow >= this.flow) {
+              if (pressure >= this.pressure) {
+                selectModel = model
+              } else {
+                selectModel = false
+              }
+            } else {
+              selectModel = false
+            }
+            if (prevFam !== fam && selectModel) {
+              console.log('true')
+              models.push(model)
+            }
+            if (selectModel) {
+              prevFam = value.Product_Family
+            }
           }
         })
+        console.log(models)
       } else {
         alert('Please select a voltage to continue.')
       }
