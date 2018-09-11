@@ -1,0 +1,261 @@
+[
+    {
+      "Product_Family": "QR",
+      "Model": "210",
+      "Pressure": 100,
+      "Flow": 3.3,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "210",
+      "Pressure": 100,
+      "Flow": 4.8,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "210",
+      "Pressure": 100,
+      "Flow": 6.1,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "310",
+      "Pressure": 175,
+      "Flow": 3.91,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "310",
+      "Pressure": 175,
+      "Flow": 6.3,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "310",
+      "Pressure": 175,
+      "Flow": 8.6,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "325",
+      "Pressure": 175,
+      "Flow": 10.4,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "325",
+      "Pressure": 175,
+      "Flow": 17.4,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "340",
+      "Pressure": 175,
+      "Flow": 17.4,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "340",
+      "Pressure": 175,
+      "Flow": 26,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "350",
+      "Pressure": 175,
+      "Flow": 25.2,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "350",
+      "Pressure": 175,
+      "Flow": 33.4,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "370",
+      "Pressure": 175,
+      "Flow": 26.3,
+      "Voltages": ["120/1/60", "230/1/60", "200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "370",
+      "Pressure": 175,
+      "Flow": 32,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "370",
+      "Pressure": 175,
+      "Flow": 49.3,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "390",
+      "Pressure": 175,
+      "Flow": 38,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "390",
+      "Pressure": 175,
+      "Flow": 56,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "390",
+      "Pressure": 175,
+      "Flow": 34,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "5120",
+      "Pressure": 175,
+      "Flow": 57,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "5120",
+      "Pressure": 175,
+      "Flow": 73,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "5120",
+      "Pressure": 175,
+      "Flow": 86.8,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QR",
+      "Model": "5120",
+      "Pressure": 175,
+      "Flow": 93,
+      "Voltages": ["200/3/60", "230/3/60", "380/3/60", "460/3/60", "575/3/60" ]
+    },
+    {
+      "Product_Family": "QT",
+      "Model": "QT-54",
+      "Pressure": 175,
+      "Flow": 15.2,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QT",
+      "Model": "QT-5",
+      "Pressure": 175,
+      "Flow": 17.2,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QT",
+      "Model": "QT-5G",
+      "Pressure": 175,
+      "Flow": 19,
+      "Voltages": "Gas"
+    },
+    {
+      "Product_Family": "QT",
+      "Model": "QT-7.5",
+      "Pressure": 175,
+      "Flow": 22.4,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QT",
+      "Model": "QT-7.5G",
+      "Pressure": 175,
+      "Flow": 23,
+      "Voltages": "Gas"
+    },
+    {
+      "Product_Family": "QT",
+      "Model": "QT-10",
+      "Pressure": 175,
+      "Flow": 35,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QT",
+      "Model": "QT-15",
+      "Pressure": 175,
+      "Flow": 51,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QP",
+      "Model": "QP-5",
+      "Pressure": 175,
+      "Flow": 17.2,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QP",
+      "Model": "QP-7.5",
+      "Pressure": 175,
+      "Flow": 22.4,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QP",
+      "Model": "QP-7.5G",
+      "Pressure": 175,
+      "Flow": 23,
+      "Voltages": "Gas"
+    },
+    {
+      "Product_Family": "QP",
+      "Model": "QP-10",
+      "Pressure": 175,
+      "Flow": 35,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "QP",
+      "Model": "QP-15",
+      "Pressure": 175,
+      "Flow": 51,
+      "Voltages": ["230/1/60", "200/3/60", "230/3/60", "460/3/60", "575/3/60"]
+    },
+    {
+      "Product_Family": "SS",
+      "Model": "Single Stage 2",
+      "Pressure": 135,
+      "Flow": 8.3,
+      "Voltages": "120/1/60"
+    },
+    {
+      "Product_Family": "SS",
+      "Model": "Single Stage 3.5",
+      "Pressure": 135,
+      "Flow": 12.4,
+      "Voltages": "230/1/60"
+    },
+    {
+      "Product_Family": "SS",
+      "Model": "Wheelbarrow Gas Driven",
+      "Pressure": 145,
+      "Flow": 9.5,
+      "Voltages": "Gas"
+    }
+  ]

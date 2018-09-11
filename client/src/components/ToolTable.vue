@@ -7,6 +7,7 @@
       <label class="pressure-lbl">Pressure Needed: </label>
       <span class="pressure">{{pressVal}}</span><br>
       <button @click="reset" style="margin-top:15px">Reset</button>
+      <button @click="voltagepage">Submit</button>
     </div>
     <button class="sticky-btn" @click="scrollTop">Scroll to Top</button>
     <table style="width:70%">
@@ -40,7 +41,7 @@
 import industrial from '../json/industrial.json'
 import automotive from '../json/automotive.json'
 export default {
-  name: 'HelloWorld',
+  name: 'ToolTable',
   data () {
     return {
       msg: 'Reciprocating Compressor Selection Tool',
@@ -82,6 +83,9 @@ export default {
       })
       this.flowSum = 0
       this.pressVal = 0
+    },
+    voltagepage: function () {
+      this.$router.push({name: 'VoltageChoose', params: {cfm: this.flowSum, psi: this.pressVal}})
     }
   }
 }
