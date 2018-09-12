@@ -1,6 +1,9 @@
 <template>
   <div class="container">
       <h1>{{msg}}</h1>
+      <ul style="list-style-type:none">
+        <li v-for="model in models" :key="model">{{model}}</li>
+      </ul>
   </div>
 </template>
 
@@ -9,7 +12,8 @@ export default {
   name: 'Results',
   data () {
     return {
-      msg: 'Results'
+      msg: 'Results',
+      models: this.$route.params.models.split(',')
     }
   },
   methods: {

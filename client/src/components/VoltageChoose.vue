@@ -29,7 +29,8 @@ export default {
         {value: 'Gas', text: 'Gas'}
       ],
       selected: null,
-      Json_compressors: Compressors
+      Json_compressors: Compressors,
+      models: []
     }
   },
   methods: {
@@ -40,7 +41,6 @@ export default {
       var pressure = 0
       var fam = ''
       var prevFam = ''
-      var models = []
       if (this.selected !== null) {
         Object.entries(this.Json_compressors).forEach(([key, value]) => {
           if (value.Voltages.includes(this.selected)) {
@@ -58,18 +58,18 @@ export default {
               selectModel = false
             }
             if (prevFam !== fam && selectModel) {
-              console.log('true')
-              models.push(model)
+              this.models.push(model)
             }
             if (selectModel) {
               prevFam = value.Product_Family
             }
           }
         })
-        console.log(models)
       } else {
         alert('Please select a voltage to continue.')
       }
+      console.log(this.models)
+      this.$router.push({name: 'Results', params: {models: this.models.join()}})
     }
   }
 }
