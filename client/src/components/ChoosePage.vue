@@ -28,6 +28,12 @@ export default {
 </script>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+h3{
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
 .btn-div{
   display: grid;
   grid-template-columns: auto;
@@ -35,7 +41,7 @@ export default {
   grid-gap: 10px;
 }
 button{
-  width: 100px;
+  width: 150px;
   height: auto;
 }
 </style>

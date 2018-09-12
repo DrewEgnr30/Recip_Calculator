@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <img v-if="showImg" src="./assets/Quincy_logo.jpg">
     <div id="btndiv">
       <button @click="goBack" id="backbtn">Back</button>
     </div>
+    <img src="./assets/Quincy_logo.jpg">
     <router-view/>
   </div>
 </template>
@@ -13,7 +13,6 @@ export default {
   name: 'App',
   data () {
     return {
-      showImg: false
     }
   },
   methods: {
@@ -36,21 +35,23 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 5%;
-  font-size: 10px;
+  font-size: 18px;
 }
 #btndiv{
   display: grid;
-  grid-template-columns: 50px;
+  grid-template-columns: 75px;
 }
 img{
-  width: 40%;
+  width: 20%;
   height: auto;
+  margin-bottom: 15px;
 }
 Button{
   color: blue;
   background-color: white;
   border-radius: 12px;
   border: 1px solid blue;
+  font-size: 18px;
 }
 Button:hover{
   color: white;

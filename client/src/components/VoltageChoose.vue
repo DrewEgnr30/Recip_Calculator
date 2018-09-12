@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-      <h1>{{msg}}</h1>
+      <h3>{{msg}}</h3>
       <select name="voltages" v-model="selected">
         <option v-for="voltage in voltages" :value="voltage.value" :key="voltage.value">{{voltage.text}}</option>
       </select><br>
@@ -65,17 +65,23 @@ export default {
             }
           }
         })
+        if (this.models.length > 0) {
+          this.$router.push({name: 'Results', params: {models: this.models.join()}})
+        } else {
+          alert('The parameters you entered do not match any compressor. Please contact the factory.')
+        }
       } else {
         alert('Please select a voltage to continue.')
       }
-      console.log(this.models)
-      this.$router.push({name: 'Results', params: {models: this.models.join()}})
     }
   }
 }
 </script>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+select{
+  font-size: 18px;
+}
 Button{
   margin-top: 10px;
   color: blue;

@@ -21,7 +21,7 @@
           <label>psig</label>
         </div>
         <div class="reset-btn">
-          <button >Reset</button>
+          <button @click="reset">Reset</button>
         </div>
         <div class="submit-btn">
           <button @click="submit">Submit</button>
@@ -43,6 +43,13 @@ export default {
   methods: {
     submit: function () {
       (isNaN(parseInt(this.flow)) || this.flow < 0) || (isNaN(parseInt(this.pressure)) || this.pressure < 0) ? alert('Please enter a valid flow or pressure') : this.$router.push({name: 'VoltageChoose', params: {cfm: this.flow, psi: this.pressure}})
+    },
+    reset: function () {
+      var inputs = []
+      inputs = Array.from(document.querySelectorAll('input'))
+      inputs.forEach(input => {
+        input.value = 0
+      })
     }
   }
 }

@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="header">
-      <h5 class="title">{{msg}}</h5>
+      <h3 class="title">{{msg}}</h3>
       <label class="flow-lbl">Flow Needed: </label>
       <span class="flow">{{flowSum}}</span>
       <label class="pressure-lbl">Pressure Needed: </label>
